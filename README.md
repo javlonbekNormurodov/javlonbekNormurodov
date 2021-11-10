@@ -11,8 +11,6 @@ Now I'm studying and working in the Udevs company.
 
   * C and  Python - (June 2021 - November 2021)
 
-  * Studied in Najot Ta'lim education center
-
   * Have worked with DB, MySQL, OOP.
  
 ## Skills
