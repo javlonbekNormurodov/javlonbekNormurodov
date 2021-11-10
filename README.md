@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**javlonbekNormurodov/javlonbekNormurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Javlonbek Normurodov
 
-Here are some ideas to get you started:
+16 years old, Back-End developer from Tashkent
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EXPERIENCE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * HTML and CSS -  Approximately 2 months
+
+  * C and  Python - (June 2021 - November 2021)
+
+  * Studied in Najot Ta'lim education center
+
+  * Have worked with DB, MySQL, OOP.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EDUCATION
+
+  * School №61
+
+  * Maverick education centre
+
+  * Infinity education centre
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SKILLS
+
+   * Python
+   * C
+   * Problem solution
+   * Mathematics Advanced level
+   * Teamworking
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LANGUAGES
+
+   * English
+   * Russian
+   * Uzbek
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ABOUT
+
+I like play chess(puzzles), solving problems and coding!
+Now I'm working and studying in the Udevs company.
