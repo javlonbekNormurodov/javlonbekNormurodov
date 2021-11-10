@@ -1,10 +1,11 @@
-### Hi there 👋
+# Javlonbek Normurodov
+Backend developer
 
-Javlonbek Normurodov
+## About
+I like play chess(puzzles), solving problems and coding!
+Now I'm studying and working in the Udevs company.
 
-16 years old, Back-End developer from Tashkent
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-EXPERIENCE
+## Experience
 
   * HTML and CSS -  Approximately 2 months
 
@@ -13,30 +14,20 @@ EXPERIENCE
   * Studied in Najot Ta'lim education center
 
   * Have worked with DB, MySQL, OOP.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-EDUCATION
+ 
+## Skills
+### Soft Skills
 
-  * School №61
+   * Problem solution
+   * Teamworking
 
-  * Maverick education centre
-
-  * Infinity education centre
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-SKILLS
+### Hard Skills
 
    * Python
    * C
-   * Problem solution
-   * Mathematics Advanced level
-   * Teamworking
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-LANGUAGES
+
+## Languages
 
    * English
    * Russian
    * Uzbek
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-ABOUT
-
-I like play chess(puzzles), solving problems and coding!
-Now I'm working and studying in the Udevs company.
