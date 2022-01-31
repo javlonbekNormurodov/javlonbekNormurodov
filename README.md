@@ -30,6 +30,7 @@ Now I'm studying and working for Udevs company.
    * C
    * Golang
    * Postgresql
+   * Git
 
 ## Languages
 
