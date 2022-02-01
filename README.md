@@ -31,6 +31,8 @@ Now I'm studying and working for Udevs company.
    * Golang
    * Postgresql
    * Git
+   * gRPC
+   * API REST
 
 ## Languages
 
