@@ -23,6 +23,10 @@ I like play chess, puzzles and coding!
    * Problem solving
    * Teamworking
    * Math
+   * Linux
+   * Git
+   * BloomRPC
+   * Postman
 
 ### Hard Skills
 
@@ -30,9 +34,6 @@ I like play chess, puzzles and coding!
    * C
    * Golang
    * Postgresql
-   * Postman
-   * BloomRPC
-   * Git
    * gRPC
    * API REST
    * Microservices
