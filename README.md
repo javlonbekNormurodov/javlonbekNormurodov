@@ -2,8 +2,7 @@
 Backend developer
 
 ## About
-I like play chess and puzzles, solving problems and coding!
-
+I like play chess, puzzles and coding!
 
 
 ## Experience
