@@ -1,11 +1,14 @@
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Javlonbek Normurodov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlonbeknormurodov&label=Profile%20views&color=0e75b6&style=flat" alt="javlonbeknormurodov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javlonbeknormurodov" alt="javlonbeknormurodov" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://habrastorage.org/getpro/habr/upload_files/8c3/da4/a17/8c3da4a17049979ddf789711ce2fe190.gif">
 
 - 🔭 I’m currently working on **Alif**
 
